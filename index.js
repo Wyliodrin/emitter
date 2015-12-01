@@ -3,8 +3,6 @@
  * Expose `Emitter`.
  */
 
-module.exports = Emitter;
-
 /**
  * Initialize a new `Emitter`.
  *
